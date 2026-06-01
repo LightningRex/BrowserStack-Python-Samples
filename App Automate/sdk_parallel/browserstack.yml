@@ -1,0 +1,11 @@
+userName: 
+accessKey:
+projectName: LightningRex
+buildName: Pelago
+sessionName: Testing Parallels
+platforms:
+- platformName: ios
+  deviceName: iPhone .*
+  platformVersion: 14
+parallelsPerPlatform: 2
+app: bs://sample.app

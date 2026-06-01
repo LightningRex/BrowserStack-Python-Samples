@@ -1,0 +1,10 @@
+userName: 
+accessKey: 
+app: bs://c7dc0b75625ef19dd43aca9e97ea5d43e96e1522
+parallelsPerPlatform: 10
+platforms:
+  - platformName: android
+    platformVersion: 10.0
+    deviceName: Samsung Galaxy A51
+buildName: Samsung Galaxy A51 occasionally gets stuck
+sessionName: Unable to Launch App
