@@ -8,9 +8,6 @@ platforms:
   # - platformName: ios
   #   platformVersion: 18
   #   deviceName: iPhone 16
-  # - platformName: android
-  #   platformVersion: '16.0'
-  #   deviceName: Google Pixel 10
   - platformName: android
     platformVersion: '16.0'
     deviceName: Google Pixel 10 Pro

@@ -1,1 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+.eggs/
+build/
+dist/
+pip-wheel-metadata/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python environment
+.python-version
+
+# Test & Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.cache/
+.tox/
+.nox/
+
+# Appium
+appium.log
+appium*.log
+logs/
+reports/
+allure-results/
+allure-report/
+screenshots/
+videos/
+
+# Environment Variables
+.env
+.env.*
+*.env
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Type Checkers / Linters
+.mypy_cache/
+.pyre/
+.pytype/
+.ruff_cache/
+
+# Misc
+*.log
+*.tmp
+*.swp
+*.swo
